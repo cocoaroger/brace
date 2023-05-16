@@ -20269,4 +20269,4 @@ exports.version = "1.2.9";
                 });
             })();
         
-module.exports = window.ace.acequire("ace/ace");
+export default window.ace.acequire("ace/ace");
